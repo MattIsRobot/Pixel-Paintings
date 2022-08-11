@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<scene>
+    <background>
+        <color>255,127,0</color>
+    </background>
+    <texture x="0.5" y="0.5">
+        <origin x="0.5" y="0.5"/>
+        <resource>src/main/resources/icon.png</resource>
+    </texture>
+
+</scene>
+
